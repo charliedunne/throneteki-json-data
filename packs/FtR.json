@@ -1,5 +1,5 @@
 {
-    "cgdbId": null,
+    "cgdbId": 59,
     "code": "FtR",
     "name": "For the Realm",
     "releaseDate": "2021-11-15",
@@ -70,7 +70,7 @@
             ],
             "text": "While Summerhall is standing, cards cannot enter or leave play during [power] challenges.",
             "deckLimit": 3,
-            "flavor": "\"Did we learn nothing from Summerhall? No good has ever come from these dreams of dragons, I told Axell as much.\" <cite>Alester Florent</cite>",
+            "flavor": "\"Did we learn nothing from Summerhall? No good has ever ceom from these dreams of dragons, I told Axell as much.\" <cite>Alester Florent</cite>",
             "illustrator": "Andreas Rocha",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/03_Summerhall.png"
         },
